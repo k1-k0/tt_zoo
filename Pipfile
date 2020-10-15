@@ -10,6 +10,7 @@ django = "*"
 djangorestframework = "*"
 psycopg2-binary = "*"
 pylint = "*"
+django-filter = "*"
 
 [requires]
 python_version = "3.8"
